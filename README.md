@@ -6,8 +6,11 @@ Languages: Python, SQL
 Tools & Libraries: pandas, NumPy, scikit-learn, Jupyter, matplotlib, seaborn, Hugging Face
 Topics: EDA, predictive modeling, LLM fine-tuning, Text-to-SQL, classification & regression
 
-📂 Featured Projects
-🔹 Twitter Search Application – A notebook project using NLP to analyze search results and patterns (Link: github.com/Nikithasunku5/Twitter-Search-Application)
+## 📂 Featured Projects
+
+🔹 **Twitter Search Application**  
+A notebook project using NLP to analyze search results and patterns  
+Link: https://github.com/Nikithasunku5/Twitter-Search-Application
 🔹 Text-to-SQL Conversion – Used LLMs to convert natural language queries into SQL format (Link: github.com/Nikithasunku5/Text_to_SQL-conversion)
 
 More projects showcasing data pipelines, model validation, and prototype workflows coming soon!
